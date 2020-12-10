@@ -21,8 +21,8 @@
     ]
   },
   {
-    "userId: 2,
-    "name" : "Ervin Howell",
+    "userId": 2,
+    "name": "Ervin Howell",
     "posts": [
       {
         "postId": 1,
@@ -42,8 +42,8 @@
     ]
   },
   {
-    "userId: 3,
-    "name" : "Clementine Bauch",
+    "userId": 3,
+    "name": "Clementine Bauch",
     "posts": [
       {
         "postId": 1,
@@ -63,8 +63,8 @@
     ]
   },
   {
-    "userId: 4,
-    "name" : "Patricia Lebsack",
+    "userId": 4,
+    "name": "Patricia Lebsack",
     "posts": [
       {
         "postId": 1,
