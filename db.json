@@ -178,7 +178,7 @@
 			"id": 7,
 			"name": "Yuki Okamoto",
 			"profileImage": "https://images.pexels.com/photos/343717/pexels-photo-343717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-			"friends": [2, 3, 5] 
+			"friends": [1, 2, 3, 4, 5] 
 		}
 	]
 }
